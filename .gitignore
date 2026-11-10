@@ -1,0 +1,6 @@
+# 不忽略图片（数据集仓库的图片就是要提交的）
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

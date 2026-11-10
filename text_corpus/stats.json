@@ -1,0 +1,13 @@
+{
+ "jieba_tri": 27004,
+ "geetest_words": 1454,
+ "all_words": 28256,
+ "charsets": 27979,
+ "multi_answer_charsets": 273,
+ "train_charsets": 23783,
+ "val_charsets": 4196,
+ "train_ambiguous": 223,
+ "val_ambiguous": 50,
+ "split_by": "charset",
+ "seed": 0
+}
